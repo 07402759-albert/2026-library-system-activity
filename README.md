@@ -4,7 +4,7 @@ A refactored Object-Oriented PHP application for managing library books and borr
 
 ## Author
 
-* Janelle
+MARK ALBERT
 
 ## Requirements
 
